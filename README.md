@@ -11,6 +11,7 @@ Self-repo:
 	06-27-16 ~ 07-05-16 An Introduction to Interactive Programming in Python--Part1  94.1% 
 	07-05-16 ~ 07-11-16 An Introduction to Interactive Programming in Python--Part2  95.0%
 	06-30-16 ~ **-**-16 Algorithmic Thinking--Part1
+	07-15-16 ~ ** **-16 Principles of Computing--Part1 
 
 
 Tool
